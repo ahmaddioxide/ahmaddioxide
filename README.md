@@ -3,7 +3,7 @@
   Hi there, I'm <a href="#" >Muhammad Ahmad Mahmood</a>
   </h3>
 <h2 align="center">
-I'm a Computer Scientist💻 & App Developer <img src="Images/dev.png" target="_blank" width="35" height="35" align="center">
+I'm a Computer Scientist💻 & App Developer <img src="images/phone.png" target="_blank" width="35" height="35" align="center">
 </h2> 
   <ul>
   <li>I’m working as a Software Engineer and contributing to frontend and backend for building web applications.</li>
