@@ -56,7 +56,10 @@ I'm a Computer Scientist💻 | App Developer <img src="Images/phone.png" target=
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/desktop.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>
 <a>
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/web.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/tablet.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>
+    <a>
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/mobile.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>
   <a>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/ai.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
