@@ -6,14 +6,14 @@
 I'm a Computer Scientist💻 | App Developer <img src="Images/phone.png" target="_blank" width="35" height="35" align="center">
 </h2> 
   <ul>
-  <li>I’m working as a Software Engineer and contributing to frontend and backend for building web applications.</li>
+  <li>I’m a amateur Computer Science student who is practicing App Development and AI.</li>
 </ul>
 <h2 align="center">
   <a href="https://linktr.ee/ahmaddioxide"  target="_blank" alt="Muhammad Ahamd Mahmood">🤝 Let's Connect!</a>
 </h2>
   <h3>:fire: My Stats :</h3>
   
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arsalan40&theme=dark&background=000000)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahmaddioxide&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arsalan40&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
