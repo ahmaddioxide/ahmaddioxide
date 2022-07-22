@@ -26,6 +26,9 @@ I'm a Computer Scientist💻 | App Developer <img src="Images/phone.png" target=
 <a>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>
+  <a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>
   </p>
   
    # Languages
