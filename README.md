@@ -6,7 +6,7 @@
 I'm a Computer Scientist💻 | App Developer <img src="Images/phone.png" target="_blank" width="35" height="35" align="center">
 </h2> 
   <ul>
-  <li>I’m a amateur Computer Science student who is practicing App Development and AI.</li>
+  <li>I’m a Computer Science student who is practicing App Development and AI.</li>
 </ul>
 <h2 align="center">
   <a href="https://linktr.ee/ahmaddioxide"  target="_blank" alt="Muhammad Ahamd Mahmood">🤝 Let's Connect!</a>
