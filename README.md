@@ -9,7 +9,7 @@ I'm a Computer Scientist💻 | App Developer <img src="Images/phone.png" target=
   <li>I’m a Computer Science student who is practicing App Development and AI.</li>
 </ul>
 <h2 align="center">
-  <a href="https:www.ahmadmahmood.live"  target="_blank" alt="Muhammad Ahamd Mahmood_Portfolio">Visit My Portfolio</a>
+  <a href="https://www.ahmadmahmood.live"  target="_blank" alt="Muhammad Ahamd Mahmood_Portfolio">Visit My Portfolio</a>
 </h2>
 <h2 align="center">
   <a href="https://linktr.ee/ahmaddioxide"  target="_blank" alt="Muhammad Ahamd Mahmood">🤝 Let's Connect!</a>
