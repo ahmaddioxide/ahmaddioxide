@@ -23,7 +23,7 @@ I'm a Computer Scientist💻 | App Developer <img src="Images/phone.png" target=
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmaddioxide&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-<img alt="Ahmad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ahmaddioxide&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" />
+<!-- <img alt="Ahmad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ahmaddioxide&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /> -->
 
   # Tools Used
 
