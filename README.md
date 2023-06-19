@@ -3,11 +3,9 @@
   Hi there, I'm <a href="#" >Muhammad Ahmad Mahmood</a>
   </h3>
 <h2 align="center">
-I'm a Computer Scientist💻 | App Developer <img src="Images/phone.png" target="_blank" width="35" height="35" align="center">
+Computer Scientist💻 | App Developer <img src="Images/phone.png" target="_blank" width="35" height="35" align="center">
 </h2> 
-  <ul>
-  <li>I’m a Computer Science student who is practicing App Development and AI.</li>
-</ul>
+
 <h2 align="center">
   <a href="https://www.ahmadmahmood.live"  target="_blank" alt="Muhammad Ahamd Mahmood_Portfolio">Visit My Portfolio</a>
 </h2>
