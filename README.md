@@ -21,8 +21,6 @@ Flutter Developer with a passion for creating innovative mobile applications.<br
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ahmaddioxide&icon=0&color=1)](https://visitcount.itsvg.in)
