@@ -6,7 +6,7 @@
 </h1>
 💫 About Me:
 <br>
-Flutter Developer with a passion for creating innovative mobile applications.<br>Currently working on my Final Year Project (PPocket) and other projects too.<br>CS student in my final year, eager to learn and grow in the field.<br>Enthusiastic gamer in my leisure time.<br>Quick learner, always seeking opportunities to enhance my skills.<br>Actively involved in community works and initiatives. Let's connect and collaborate on exciting projects! 🚀
+Flutter Developer with a passion for creating innovative mobile applications.<br>Currently working as Flutter Developer at Sharplogicians and also working on my Final Year Project (PPocket) and other projects too.<br>CS student in my final year, eager to learn and grow in the field.<br>Enthusiastic gamer in my leisure time.<br>Quick learner, always seeking opportunities to enhance my skills.<br>Actively involved in community works and initiatives. Let's connect and collaborate on exciting projects! 🚀
 
 
 ## 🌐 Socials:
