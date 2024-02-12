@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Ahmad+Mahmood;I+am+App+Developer+%F0%9F%91%8B&center=true&size=30">
   </a>
 </h1>
-💫 About Me:
 <br>
 Flutter Developer with a passion for creating innovative mobile applications.<br>Currently working as Flutter Developer at Sharplogicians and also working on my Final Year Project (PPocket) and other projects too.<br>CS student in my final year, eager to learn and grow in the field.<br>Enthusiastic gamer in my leisure time.<br>Quick learner, always seeking opportunities to enhance my skills.<br>Actively involved in community works and initiatives. Let's connect and collaborate on exciting projects! 🚀
 
