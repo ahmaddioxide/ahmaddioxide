@@ -5,7 +5,7 @@
   </a>
 </h1>
 <br>
-Software Enginner with a passion for creating innovative mobile applications.<br>Enthusiastic gamer in my leisure time.<br>Quick learner, always seeking opportunities to enhance my skills.<br>Actively involved in community works and initiatives. Let's connect and collaborate on exciting projects! 🚀
+Software Enginner with 5+ years of experience and passion for creating innovative mobile applications.<br>Enthusiastic gamer in my leisure time.<br>Quick learner, always seeking opportunities to enhance my skills.<br>Actively involved in community works and initiatives. Let's connect and collaborate on exciting projects! 🚀
 
 
 ## 🌐 Socials:
